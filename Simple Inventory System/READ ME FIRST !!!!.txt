@@ -1,0 +1,38 @@
+COLLEGE STOCK INVENTORY SYSTEM IN PYTHON
+
+DESCRIPTION ABOUT PROJECT : I had made this project for COLLEGE STOCK INVENTORY SYSTEM IN PYTHON. It is "GUI BASED".Basically for college stock ,it can be used for any stock management.
+Application used in front end : python IDLE and GUI used is Tkinter.
+Application used in back end  : Sqlite3 database to store data related to login and products
+LINKS FOR DOWNLOADING APPLICATTION TO RUN:
+1)DOWNLOAD PYTHON IDLE :  https://www.python.org/downloads/
+2)DOWNLOAD ANY DATABASE eg : SQLITE -  https://sqlitebrowser.org/dl/
+
+STEPS TO FOLLOW :
+
+1) After downloading the application copy the code or write the code by creating a new file in IDLE.
+2)Run it.
+3)In file--> Account--> LOGIN DETAILS
+Administrator Login :
+Username - admin
+Password - admin
+and press Login button
+4)Inventory -->Add NEW-->Add product name,qty and price
+5)To view your product is added go to Inventory --> View
+6)In view You view option you can search, reset and by clicking on product press delete option to remove your product 
+7)To Exit Account-->Logout-->File-->Exit
+8)You can also view your product details in database by downloading link discussed earlier.
+
+NOTE : DOWNLOAD ALL FILES ATTACHED WITH MY REPOSITORY . You need to change the path of image according where you save your files.
+ ie : line number 20 in "index.py" code.
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT ME *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED MY WORK *****
+
+
+***** FOR MORE PROJECTS :- https://github.com/DilipPr2000?tab=repositories *****
+
+
+#THANK YOU FOR DOWNLOADING
